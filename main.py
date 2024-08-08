@@ -89,7 +89,6 @@ def delete_user(user_id):
 
 # read_from_id(3)
 # update_user(1)
-
-deletar_usuario(1)
+# deletar_usuario(1)
 
 conn.close()
